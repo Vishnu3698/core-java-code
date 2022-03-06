@@ -1,4 +1,4 @@
-package vd;
+package com.capgemini;
 
 public abstract class Shape {
  String color="red";
