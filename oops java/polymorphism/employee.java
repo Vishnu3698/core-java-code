@@ -1,4 +1,4 @@
-
+package com.capgemini;
 class vd {
 private String name,email;
 private int mobno,dob,doj;
