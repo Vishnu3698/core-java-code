@@ -1,4 +1,4 @@
-package vd;
+package com.capgemini;
 import java.util.*;
 class shopping {
 	public void get()
