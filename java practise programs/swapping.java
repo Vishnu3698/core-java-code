@@ -1,11 +1,7 @@
-package vd;
+package com.capgemini;
 
 public class swapping {
-	public class ArrayExample2 {
-
-
-
-		public static void main(String[] args) {
+	public static void main(String[] args) {
 
 		int arr[]= {20,30,40,50,60,70};
 		for(int i=0;i<=arr.length-1;i++)
