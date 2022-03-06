@@ -1,4 +1,4 @@
-package vd;
+package com.capgemini;
 
 public class Rectangle extends Shape {
 	double width=1.0;
