@@ -1,4 +1,4 @@
-package vd;
+package com.capgemini;
 
 public class AbstractMain {
 public static void main(String[] args) {
