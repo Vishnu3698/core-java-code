@@ -1,4 +1,4 @@
-package vd;
+package com.capgemini;
 
 public class maximumArray {
 public static void main(String [] args)
