@@ -1,4 +1,4 @@
-package vd;
+package com.capgemini;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
