@@ -1,4 +1,4 @@
-package vd;
+package com.capgemini;
 
 public class Square extends Rectangle {
 public Square() {
